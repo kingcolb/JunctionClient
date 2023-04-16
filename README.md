@@ -1,5 +1,9 @@
 # Junction Client Project
 
+![](https://github.com/Your_Repository_Name/frontpage.gif](https://github.com/kingcolb/JunctionClient/blob/main/frontpage.gif))
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
